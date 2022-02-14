@@ -1,3 +1,5 @@
 tmp/todo.txt
 *.txt
+*.csv
+*.prj
 tmp/*
